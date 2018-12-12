@@ -1,1 +1,1 @@
-Postawienie serwera HSQL
+Interfejs
